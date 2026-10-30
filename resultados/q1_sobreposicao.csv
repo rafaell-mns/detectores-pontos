@@ -1,0 +1,10 @@
+detector,par,Harris,SIFT,ORB
+Harris,par1,1.0,0.475,0.782
+SIFT,par1,0.687,1.0,0.668
+ORB,par1,0.837,0.597,1.0
+Harris,par2,1.0,0.275,0.957
+SIFT,par2,0.299,1.0,0.398
+ORB,par2,0.688,0.399,1.0
+Harris,par3_meu,1.0,0.557,0.901
+SIFT,par3_meu,0.211,1.0,0.348
+ORB,par3_meu,0.515,0.576,1.0

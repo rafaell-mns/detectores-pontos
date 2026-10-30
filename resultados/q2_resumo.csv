@@ -1,0 +1,4 @@
+detector,ORB,SIFT
+Harris,0.943,0.984
+ORB,0.914,0.833
+SIFT,0.88,0.806
